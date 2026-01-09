@@ -16,3 +16,10 @@ function divisibleBy(numbers, divisor){
 }
             return result
 }
+
+
+
+/* 
+const divisibleBy = (numbers, divisor) => numbers.filter(number => !(number % divisor));
+
+*/
